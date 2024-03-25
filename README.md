@@ -36,8 +36,7 @@ The Translator Application is developed using React.js. Below is an overview of 
 ## Screenshots
 <img width="960" alt="Screenshot 2024-03-25 125538" src="https://github.com/asish-sutar/React-Translator-App/assets/114928367/435f5f90-eab1-4c8b-9c08-424ae74b5f71">
 <img width="960" alt="Screenshot 2024-03-25 125648" src="https://github.com/asish-sutar/React-Translator-App/assets/114928367/6a3b68c8-168a-4e26-a60d-b3d34c04a685">
-
-
+<img width="956" alt="Screenshot 2024-03-25 125756" src="https://github.com/asish-sutar/React-Translator-App/assets/114928367/3ed75c03-320b-4785-8b92-917665860198">
 
 
 ## Conclusion
