@@ -34,12 +34,10 @@ The Translator Application is developed using React.js. Below is an overview of 
 - **MyMemory Translation API**: External API used for translating text between languages.
 
 ## Screenshots
+<img width="960" alt="Screenshot 2024-03-25 125538" src="https://github.com/asish-sutar/React-Translator-App/assets/114928367/435f5f90-eab1-4c8b-9c08-424ae74b5f71">
 
-![Translator Application](<img width="960" alt="image" src="https://github.com/asish-sutar/React-Translator-App/assets/114928367/05fc5f33-d9fa-49ac-938e-5f0743242621">)
-![Translator Application](<img width="960" alt="image" src="https://github.com/asish-sutar/React-Translator-App/assets/114928367/1aefb896-4705-480d-9700-c0bd95f4cb1a">)
-![Translator Application](<img width="956" alt="image" src="https://github.com/asish-sutar/React-Translator-App/assets/114928367/c87ea6f3-6254-4489-839d-80acc5214388">)
 
-*Screenshot of the Translator Application showing the interface with text input, language dropdowns, and translation results.*
+
 
 ## Conclusion
 
